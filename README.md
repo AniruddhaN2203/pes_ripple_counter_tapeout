@@ -12,3 +12,10 @@ Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of 
 Refer to [README](docs/source/index.rst) for this sample project documentation. 
 
 Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthedocs.io/en/latest/index.html) for how to add cocotb tests to your project. 
+
+## Linting Error
+
+![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/05f15b49-10dc-4bff-8564-d56124b80184)
+
+![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/685863fa-b150-46fd-91f0-88f9fc3fabd3)
+- Unable to fix error
