@@ -72,7 +72,7 @@ module user_proj_ripple_counter #(
 
 pes_ripco pes_ripco(.clk(wb_clk_i),
 		.reset(wb_rst_i),
-		.q(io_out));
+		    .q(io_out[1:0]));
 /*
     wire clk;
     wire rst;
