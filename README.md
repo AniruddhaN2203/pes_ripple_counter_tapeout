@@ -19,3 +19,9 @@ Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthed
 
 ![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/685863fa-b150-46fd-91f0-88f9fc3fabd3)
 - Unable to fix error
+- Design file exists in the same folder, but still it is not being read.
+
+- Design file path : /home/aniruddhan/pes_ripple_counter_tapeout/verilog/rtl/pes_ripple_counter.v
+
+![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/098c1ed2-29b5-4a17-a193-4d7bf77eef69)
+- Module name is also same
