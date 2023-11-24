@@ -13,15 +13,8 @@ Refer to [README](docs/source/index.rst) for this sample project documentation.
 
 Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthedocs.io/en/latest/index.html) for how to add cocotb tests to your project. 
 
-## Linting Error
+## Linting Error and unable to read sdc file
 
-![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/05f15b49-10dc-4bff-8564-d56124b80184)
+![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/238458cc-def5-4162-abae-b0bf1a34dc44)
 
-![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/685863fa-b150-46fd-91f0-88f9fc3fabd3)
-- Unable to fix error
-- Design file exists in the same folder, but still it is not being read.
-
-- Design file path : /home/aniruddhan/pes_ripple_counter_tapeout/verilog/rtl/pes_ripple_counter.v
-
-![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/098c1ed2-29b5-4a17-a193-4d7bf77eef69)
-- Module name is also same
+![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/a19e61ce-b820-4b3b-bb56-1ebd91f4fd99)
