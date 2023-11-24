@@ -15,6 +15,8 @@ Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthed
 
 ## Linting Error and unable to read sdc file
 
+![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/9fd173a0-66c7-4e3a-bbbd-090bfa411693)
+
 ![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/238458cc-def5-4162-abae-b0bf1a34dc44)
 
 ![image](https://github.com/AniruddhaN2203/pes_ripple_counter_tapeout/assets/142299140/a19e61ce-b820-4b3b-bb56-1ebd91f4fd99)
